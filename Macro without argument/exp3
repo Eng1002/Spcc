@@ -1,5 +1,5 @@
-code = open("/FilePath/code.txt", "r")
-macro = open("/FilePath/macro.txt", "r")
+code = open("Filepath","r")
+macro = open("FilePath/macro.txt","r")
 
 macrol = []
 codel = []
