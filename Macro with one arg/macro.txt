@@ -4,3 +4,4 @@ RAHUL &ARG
  SUB &ARG
  OR &ARG
 MEND
+///Add this in macro.txt
