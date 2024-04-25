@@ -1,4 +1,4 @@
-code = open("Filepath","r")
+code = open("Filepath/code.txt","r")
 macro = open("FilePath/macro.txt","r")
 
 macrol = []
